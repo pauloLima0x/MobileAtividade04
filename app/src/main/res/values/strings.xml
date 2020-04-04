@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TreinoFirebase</string>
+    <string name="dica_login">Digite seu login</string>
+    <string name="dica_senha">Digite sua senha</string>
+    <string name="quero_ne_cadastrar">Quero me cadastrar</string>
+    <string name="data_nome">Em %s, %s diz:</string>
+    <string name="digite_sua_mensagem">Digite a sua mensagem</string>
+    <string name="title_activity_novo_usuario">NovoUsuarioActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868130486105",
+    "firebase_url": "https://treinofirebase-240e0.firebaseio.com",
+    "project_id": "treinofirebase-240e0",
+    "storage_bucket": "treinofirebase-240e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868130486105:android:e2ab2473e4283dd0ed7e48",
+        "android_client_info": {
+          "package_name": "br.com.treinoFireBase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868130486105-h9vo3kinohjgo7lti5r7e89etb9hfinf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.treinoFireBase",
+            "certificate_hash": "14d57052337c65dd17ff6aa3d734cb917db3ed12"
+          }
+        },
+        {
+          "client_id": "868130486105-119eijj9o15v4lhfns51i3saeitad4p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ODptmz-KEuK5kQMy_NTKymB318frID8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868130486105-119eijj9o15v4lhfns51i3saeitad4p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
